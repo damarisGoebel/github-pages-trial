@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/github-pages-trial/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/github-pages-trial/static/js/main.0c4c892d.chunk.js",
+    "main.js.map": "/github-pages-trial/static/js/main.0c4c892d.chunk.js.map",
+    "runtime-main.js": "/github-pages-trial/static/js/runtime-main.ae01bba1.js",
+    "runtime-main.js.map": "/github-pages-trial/static/js/runtime-main.ae01bba1.js.map",
+    "static/js/2.0527f2c2.chunk.js": "/github-pages-trial/static/js/2.0527f2c2.chunk.js",
+    "static/js/2.0527f2c2.chunk.js.map": "/github-pages-trial/static/js/2.0527f2c2.chunk.js.map",
+    "static/js/3.b4e7a97a.chunk.js": "/github-pages-trial/static/js/3.b4e7a97a.chunk.js",
+    "static/js/3.b4e7a97a.chunk.js.map": "/github-pages-trial/static/js/3.b4e7a97a.chunk.js.map",
+    "index.html": "/github-pages-trial/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/github-pages-trial/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.0527f2c2.chunk.js.LICENSE.txt": "/github-pages-trial/static/js/2.0527f2c2.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/github-pages-trial/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae01bba1.js",
+    "static/js/2.0527f2c2.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.0c4c892d.chunk.js"
+  ]
+}
